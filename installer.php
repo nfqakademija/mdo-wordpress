@@ -86,7 +86,7 @@ if (!isset($_SERVER['REQUEST_URI']))  {
 //COMPARE VALUES
 $GLOBALS['DUPX_DEBUG']			= false;
 $GLOBALS['DUPX_DBPASS_CHECK']	= true;
-$GLOBALS['FW_CREATED']			= '2018-11-27 10:14:38';
+$GLOBALS['FW_CREATED']			= '2018-12-12 08:03:39';
 $GLOBALS['FW_VERSION_DUP']		= '1.2.52';
 $GLOBALS['FW_VERSION_WP']		= '4.9.8';
 $GLOBALS['FW_VERSION_DB']		= '10.2.17';
@@ -94,11 +94,11 @@ $GLOBALS['FW_VERSION_PHP']		= '7.1.22';
 $GLOBALS['FW_VERSION_OS']		= 'Linux';
 //GENERAL
 $GLOBALS['FW_TABLEPREFIX']		= 'wp_';
-$GLOBALS['FW_URL_OLD']			= 'http://escape.ovioprojects.online';
-$GLOBALS['FW_PACKAGE_NAME']		= '20181122_siaubokambarys_6f70fa4e6da7dd292266_20181127101438_archive.zip';
+$GLOBALS['FW_URL_OLD']			= 'http://ovioprojects.online';
+$GLOBALS['FW_PACKAGE_NAME']		= '20181212_siaubokambarys_b7413d099311c2d81574_20181212080339_archive.zip';
 $GLOBALS['FW_PACKAGE_NOTES']	= '';
-$GLOBALS['FW_PACKAGE_EST_SIZE']	= 48765848;
-$GLOBALS['FW_SECURE_NAME']		= '20181122_siaubokambarys_6f70fa4e6da7dd292266_20181127101438';
+$GLOBALS['FW_PACKAGE_EST_SIZE']	= 23449299;
+$GLOBALS['FW_SECURE_NAME']		= '20181212_siaubokambarys_b7413d099311c2d81574_20181212080339';
 $GLOBALS['FW_DBHOST']			= '';
 $GLOBALS['FW_DBHOST']			= empty($GLOBALS['FW_DBHOST']) ? 'localhost' : $GLOBALS['FW_DBHOST'];
 $GLOBALS['FW_DBPORT']			= '';
@@ -107,14 +107,14 @@ $GLOBALS['FW_DBNAME']			= '';
 $GLOBALS['FW_DBUSER']			= '';
 $GLOBALS['FW_DBPASS']			= '';
 $GLOBALS['FW_SECUREON']			= 0;
-$GLOBALS['FW_SECUREPASS']		= '$2a$08$kkA1bA1HOt95Wgv8uZ1WbOXZxmYry4UlX3mREOzyOwHr9V1mxhWGq';
+$GLOBALS['FW_SECUREPASS']		= '$2a$08$qiqm4WPmkVOp0HWRqsIDOedk2nn026M9YcXgqJPBQC2HaNuK4oqYW';
 $GLOBALS['FW_BLOGNAME']			= 'Siaubo kambarys';
-$GLOBALS['FW_WPROOT']			= '/home/u426233187/domains/ovioprojects.online/public_html/escape/';
-$GLOBALS['FW_WPLOGIN_URL']		= 'http://escape.ovioprojects.online/wp-login.php';
+$GLOBALS['FW_WPROOT']			= '/home/u426233187/domains/ovioprojects.online/public_html/';
+$GLOBALS['FW_WPLOGIN_URL']		= 'http://ovioprojects.online/wp-login.php';
 $GLOBALS['FW_OPTS_DELETE']		= json_decode('["duplicator_ui_view_state","duplicator_package_active","duplicator_settings"]', true);
 $GLOBALS['FW_DUPLICATOR_VERSION'] = '1.2.52';
 $GLOBALS['FW_ARCHIVE_ONLYDB']	= 0;
-$GLOBALS['PACKAGE_HASH']		= '6f70fa4-27101438';
+$GLOBALS['PACKAGE_HASH']		= 'b7413d0-12080339';
 
 //DATABASE SETUP: all time in seconds	
 $GLOBALS['DB_MAX_TIME']		= 5000;
