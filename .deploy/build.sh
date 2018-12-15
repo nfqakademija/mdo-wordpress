@@ -6,3 +6,8 @@
 set -e # Stop on error
 set -x # Show commands being executed
 
+tar czf project.tar.gz --owner 0 --group 0 --anchored $( \
+    ls -a | tail -n +3 \
+    | grep -v ".deploy" \
+    | grep -v ".idea" \
+)
