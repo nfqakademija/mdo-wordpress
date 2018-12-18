@@ -1,0 +1,382 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: nginx/1.14.0
+MySQL version 		: 5.7.19
+PHP Version 		: 7.1.20
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 64M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 36000
+Max Upload Size 	: 64 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 2
+
+-----
+
+Importing Started! - 08:11:36 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 08:11:36 UTC
+
+---
+
+2. Importing "XML"  - 08:11:37 UTC
+Imported "Uncategorized" (category)
+Term 1 remapped to 2
+Imported "Main Menu" (nav_menu)
+Term 7 remapped to 3
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 6 remapped to 4
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "Contact form" (Contact Form)
+Post 4 remapped to 23
+Imported "Home" (Page)
+Post 6 remapped to 24
+Imported "About Us" (Page)
+Post 7 remapped to 25
+Imported "Menu" (Page)
+Post 8 remapped to 8
+Imported "Contact Us" (Page)
+Post 9 remapped to 26
+Imported "divider-free-img-1.png" (Media)
+Post 12 remapped to 27
+Imported "home-bg-free-img-2.jpg" (Media)
+Post 14 remapped to 28
+Imported "bbbq-free-img.png" (Media)
+Post 15 remapped to 29
+Imported "food1-free-img.jpg" (Media)
+Post 16 remapped to 30
+Imported "food2-free-img.jpg" (Media)
+Post 17 remapped to 31
+Imported "food1-free-img.png" (Media)
+Post 18 remapped to 32
+Imported "food4-free-img.png" (Media)
+Post 19 remapped to 19
+Imported "food5-free-img.png" (Media)
+Post 20 remapped to 33
+Imported "food2-free-img.png" (Media)
+Post 21 remapped to 34
+Imported "food3-free-img.png" (Media)
+Post 22 remapped to 35
+Imported "food6-free-img.png" (Media)
+Post 23 remapped to 36
+Imported "enjoy-bg-free-img.jpg" (Media)
+Post 26 remapped to 37
+Imported "footer-cta-bg-free-img.jpg" (Media)
+Post 32 remapped to 38
+Imported "logo@2x-free-img" (Media)
+Post 35 remapped to 39
+Imported "logo-free-img" (Media)
+Post 36 remapped to 40
+Imported "" (Navigation Menu Item)
+Post 40 remapped to 41
+Processing menu item post_type
+Menu item 6 mapped to 24
+Imported "" (Navigation Menu Item)
+Post 41 remapped to 42
+Processing menu item post_type
+Menu item 8 mapped to 8
+Imported "" (Navigation Menu Item)
+Post 42 remapped to 43
+Processing menu item post_type
+Menu item 7 mapped to 25
+Imported "" (Navigation Menu Item)
+Post 43 remapped to 44
+Processing menu item post_type
+Menu item 9 mapped to 26
+Imported "about-bg-free-img.jpg" (Media)
+Post 44 remapped to 45
+Imported "slide1-free-img-5.jpg" (Media)
+Post 45 remapped to 46
+Imported "slide2-free-img-5.jpg" (Media)
+Post 46 remapped to 47
+Imported "slide3-free-img-3.jpg" (Media)
+Post 47 remapped to 48
+Imported "slide4-free-img-3.jpg" (Media)
+Post 48 remapped to 49
+Imported "work-bg-free-img.jpg" (Media)
+Post 50 remapped to 50
+Imported "chef1-free-img.png" (Media)
+Post 51 remapped to 51
+Imported "chef2-free-img.png" (Media)
+Post 52 remapped to 52
+Imported "banner3-free-img.jpg" (Media)
+Post 53 remapped to 53
+Imported "chef3-free-img.png" (Media)
+Post 54 remapped to 54
+Imported "banner2-free-img.jpg" (Media)
+Post 55 remapped to 55
+Imported "chef4-free-img.png" (Media)
+Post 56 remapped to 56
+Imported "banner1-free-img.jpg" (Media)
+Post 57 remapped to 57
+Imported "contact-bg-free-img.jpg" (Media)
+Post 60 remapped to 60
+Imported "about-img-free-img" (Media)
+Post 69 remapped to 69
+Imported "client4-free-img" (Media)
+Post 72 remapped to 72
+Imported "client1-free-img" (Media)
+Post 73 remapped to 73
+Imported "client2-free-img" (Media)
+Post 74 remapped to 74
+Imported "client3-free-img" (Media)
+Post 75 remapped to 75
+Imported "blackboard-bg-free-img" (Media)
+Post 76 remapped to 76
+Imported "food-pattern-free-img" (Media)
+Post 77 remapped to 77
+Imported "bbq-free-img" (Media)
+Post 79 remapped to 79
+Imported "favicon-free-img" (Media)
+Post 80 remapped to 80
+Imported "mag4-free-img" (Media)
+Post 94 remapped to 94
+Imported "mag1-free-img" (Media)
+Post 95 remapped to 95
+Imported "mag2-free-img" (Media)
+Post 96 remapped to 96
+Imported "mag3-free-img" (Media)
+Post 97 remapped to 97
+Imported "demo-screenshot-free-img" (Media)
+Post 103 remapped to 103
+Running post-processing for post 23
+Could not find the author for "Contact form" (post #23)
+Post 23 was imported with author "harshadd", but could not be found
+Post 23 was marked for post-processing, but none was required.
+Running post-processing for post 24
+Could not find the author for "Home" (post #24)
+Post 24 was imported with author "harshadd", but could not be found
+Running post-processing for post 25
+Could not find the author for "About Us" (post #25)
+Post 25 was imported with author "harshadd", but could not be found
+Running post-processing for post 8
+Could not find the author for "Menu" (post #8)
+Post 8 was imported with author "harshadd", but could not be found
+Running post-processing for post 26
+Could not find the author for "Contact Us" (post #26)
+Post 26 was imported with author "harshadd", but could not be found
+Running post-processing for post 27
+Could not find the author for "divider-free-img-1.png" (post #27)
+Post 27 was imported with author "harshadd", but could not be found
+Post 27 was marked for post-processing, but none was required.
+Running post-processing for post 28
+Could not find the author for "home-bg-free-img-2.jpg" (post #28)
+Post 28 was imported with author "harshadd", but could not be found
+Post 28 was marked for post-processing, but none was required.
+Running post-processing for post 29
+Could not find the author for "bbbq-free-img.png" (post #29)
+Post 29 was imported with author "harshadd", but could not be found
+Post 29 was marked for post-processing, but none was required.
+Running post-processing for post 30
+Could not find the author for "food1-free-img.jpg" (post #30)
+Post 30 was imported with author "harshadd", but could not be found
+Post 30 was marked for post-processing, but none was required.
+Running post-processing for post 31
+Could not find the author for "food2-free-img.jpg" (post #31)
+Post 31 was imported with author "harshadd", but could not be found
+Post 31 was marked for post-processing, but none was required.
+Running post-processing for post 32
+Could not find the author for "food1-free-img.png" (post #32)
+Post 32 was imported with author "harshadd", but could not be found
+Post 32 was marked for post-processing, but none was required.
+Running post-processing for post 19
+Could not find the author for "food4-free-img.png" (post #19)
+Post 19 was imported with author "harshadd", but could not be found
+Post 19 was marked for post-processing, but none was required.
+Running post-processing for post 33
+Could not find the author for "food5-free-img.png" (post #33)
+Post 33 was imported with author "harshadd", but could not be found
+Post 33 was marked for post-processing, but none was required.
+Running post-processing for post 34
+Could not find the author for "food2-free-img.png" (post #34)
+Post 34 was imported with author "harshadd", but could not be found
+Post 34 was marked for post-processing, but none was required.
+Running post-processing for post 35
+Could not find the author for "food3-free-img.png" (post #35)
+Post 35 was imported with author "harshadd", but could not be found
+Post 35 was marked for post-processing, but none was required.
+Running post-processing for post 36
+Could not find the author for "food6-free-img.png" (post #36)
+Post 36 was imported with author "harshadd", but could not be found
+Post 36 was marked for post-processing, but none was required.
+Running post-processing for post 37
+Could not find the author for "enjoy-bg-free-img.jpg" (post #37)
+Post 37 was imported with author "harshadd", but could not be found
+Post 37 was marked for post-processing, but none was required.
+Running post-processing for post 38
+Could not find the author for "footer-cta-bg-free-img.jpg" (post #38)
+Post 38 was imported with author "harshadd", but could not be found
+Post 38 was marked for post-processing, but none was required.
+Running post-processing for post 39
+Could not find the author for "logo@2x-free-img" (post #39)
+Post 39 was imported with author "harshadd", but could not be found
+Post 39 was marked for post-processing, but none was required.
+Running post-processing for post 40
+Could not find the author for "logo-free-img" (post #40)
+Post 40 was imported with author "harshadd", but could not be found
+Post 40 was marked for post-processing, but none was required.
+Running post-processing for post 41
+Could not find the author for "" (post #41)
+Post 41 was imported with author "harshadd", but could not be found
+Post 41 was marked for post-processing, but none was required.
+Running post-processing for post 42
+Could not find the author for "" (post #42)
+Post 42 was imported with author "harshadd", but could not be found
+Post 42 was marked for post-processing, but none was required.
+Running post-processing for post 43
+Could not find the author for "" (post #43)
+Post 43 was imported with author "harshadd", but could not be found
+Post 43 was marked for post-processing, but none was required.
+Running post-processing for post 44
+Could not find the author for "" (post #44)
+Post 44 was imported with author "harshadd", but could not be found
+Post 44 was marked for post-processing, but none was required.
+Running post-processing for post 45
+Could not find the author for "about-bg-free-img.jpg" (post #45)
+Post 45 was imported with author "harshadd", but could not be found
+Post 45 was marked for post-processing, but none was required.
+Running post-processing for post 46
+Could not find the author for "slide1-free-img-5.jpg" (post #46)
+Post 46 was imported with author "harshadd", but could not be found
+Post 46 was marked for post-processing, but none was required.
+Running post-processing for post 47
+Could not find the author for "slide2-free-img-5.jpg" (post #47)
+Post 47 was imported with author "harshadd", but could not be found
+Post 47 was marked for post-processing, but none was required.
+Running post-processing for post 48
+Could not find the author for "slide3-free-img-3.jpg" (post #48)
+Post 48 was imported with author "harshadd", but could not be found
+Post 48 was marked for post-processing, but none was required.
+Running post-processing for post 49
+Could not find the author for "slide4-free-img-3.jpg" (post #49)
+Post 49 was imported with author "harshadd", but could not be found
+Post 49 was marked for post-processing, but none was required.
+Running post-processing for post 50
+Could not find the author for "work-bg-free-img.jpg" (post #50)
+Post 50 was imported with author "harshadd", but could not be found
+Post 50 was marked for post-processing, but none was required.
+Running post-processing for post 51
+Could not find the author for "chef1-free-img.png" (post #51)
+Post 51 was imported with author "harshadd", but could not be found
+Post 51 was marked for post-processing, but none was required.
+Running post-processing for post 52
+Could not find the author for "chef2-free-img.png" (post #52)
+Post 52 was imported with author "harshadd", but could not be found
+Post 52 was marked for post-processing, but none was required.
+Running post-processing for post 53
+Could not find the author for "banner3-free-img.jpg" (post #53)
+Post 53 was imported with author "harshadd", but could not be found
+Post 53 was marked for post-processing, but none was required.
+Running post-processing for post 54
+Could not find the author for "chef3-free-img.png" (post #54)
+Post 54 was imported with author "harshadd", but could not be found
+Post 54 was marked for post-processing, but none was required.
+Running post-processing for post 55
+Could not find the author for "banner2-free-img.jpg" (post #55)
+Post 55 was imported with author "harshadd", but could not be found
+Post 55 was marked for post-processing, but none was required.
+Running post-processing for post 56
+Could not find the author for "chef4-free-img.png" (post #56)
+Post 56 was imported with author "harshadd", but could not be found
+Post 56 was marked for post-processing, but none was required.
+Running post-processing for post 57
+Could not find the author for "banner1-free-img.jpg" (post #57)
+Post 57 was imported with author "harshadd", but could not be found
+Post 57 was marked for post-processing, but none was required.
+Running post-processing for post 60
+Could not find the author for "contact-bg-free-img.jpg" (post #60)
+Post 60 was imported with author "harshadd", but could not be found
+Post 60 was marked for post-processing, but none was required.
+Running post-processing for post 69
+Could not find the author for "about-img-free-img" (post #69)
+Post 69 was imported with author "harshadd", but could not be found
+Post 69 was marked for post-processing, but none was required.
+Running post-processing for post 72
+Could not find the author for "client4-free-img" (post #72)
+Post 72 was imported with author "harshadd", but could not be found
+Post 72 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "client1-free-img" (post #73)
+Post 73 was imported with author "harshadd", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "client2-free-img" (post #74)
+Post 74 was imported with author "harshadd", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "client3-free-img" (post #75)
+Post 75 was imported with author "harshadd", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 76
+Could not find the author for "blackboard-bg-free-img" (post #76)
+Post 76 was imported with author "harshadd", but could not be found
+Post 76 was marked for post-processing, but none was required.
+Running post-processing for post 77
+Could not find the author for "food-pattern-free-img" (post #77)
+Post 77 was imported with author "harshadd", but could not be found
+Post 77 was marked for post-processing, but none was required.
+Running post-processing for post 79
+Could not find the author for "bbq-free-img" (post #79)
+Post 79 was imported with author "harshadd", but could not be found
+Post 79 was marked for post-processing, but none was required.
+Running post-processing for post 80
+Could not find the author for "favicon-free-img" (post #80)
+Post 80 was imported with author "harshadd", but could not be found
+Post 80 was marked for post-processing, but none was required.
+Running post-processing for post 94
+Could not find the author for "mag4-free-img" (post #94)
+Post 94 was imported with author "harshadd", but could not be found
+Post 94 was marked for post-processing, but none was required.
+Running post-processing for post 95
+Could not find the author for "mag1-free-img" (post #95)
+Post 95 was imported with author "harshadd", but could not be found
+Post 95 was marked for post-processing, but none was required.
+Running post-processing for post 96
+Could not find the author for "mag2-free-img" (post #96)
+Post 96 was imported with author "harshadd", but could not be found
+Post 96 was marked for post-processing, but none was required.
+Running post-processing for post 97
+Could not find the author for "mag3-free-img" (post #97)
+Post 97 was imported with author "harshadd", but could not be found
+Post 97 was marked for post-processing, but none was required.
+Running post-processing for post 103
+Could not find the author for "demo-screenshot-free-img" (post #103)
+Post 103 was imported with author "harshadd", but could not be found
+Post 103 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 08:12:43 UTC
+
+---
+
+4. Importing "Widgets"  - 08:12:44 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 08:12:46 UTC

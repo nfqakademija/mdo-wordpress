@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2018-12-16 17:36
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.9
+PHP INFO:	7.1.22 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 38MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:14 | filtered:0 | create:14 
+FILTERED: [] 
+SQL CREATED: 20181212_siaubokambarys_96efd363cc18e2ac1353_20181216173445_database.sql 
+SQL FILE SIZE: 6.86MB (7194540) 
+SQL FILE TIME: 2018-12-16 17:36:14 
+SQL RUNTIME: 8.12 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/u426233187/domains/ovioprojects.online/public_html 
+ARCHIVE FILE: 20181212_siaubokambarys_96efd363cc18e2ac1353_20181216173445_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	66.37MB 
+STATS:	Dirs 968 | Files 5,071 
+SQL ADDED: 20181212_siaubokambarys_96efd363cc18e2ac1353_20181216173445_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6039
+    [filename] => /home/u426233187/domains/ovioprojects.online/public_html/wp-snapshots/tmp/20181212_siaubokambarys_96efd363cc18e2ac1353_20181216173445_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 22.11MB 
+ARCHIVE RUNTIME: 100.83 sec. 
+MEMORY STACK: 42MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/home/u426233187/domains/ovioprojects.online/public_html/wp-snapshots/tmp/20181212_siaubokambarys_96efd363cc18e2ac1353_20181216173445_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 6.86MB 
+Installer File: 514.2KB 
+Archive File: 22.11MB  
+
+********************************************************************************
+RECORD ID:[6]
+TOTAL PROCESS RUNTIME: 140.37 sec.
+PEAK PHP MEMORY USED: 44MB
+DONE PROCESSING => 20181212_siaubokambarys 2018-12-16 17:38
+ 
