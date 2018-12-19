@@ -326,7 +326,7 @@ class Calendar_Public_Display {
                     $day_count++;
 
                     $html = '<td data-date="'.$check_year.'-'.$check_month.'-'.$date.'" class="'.implode(' ',$classes).'">';
-                    $html .= '<span class="date'.(!$hide_available_count && $appointments_left > 0 && !in_array('prev-date',$classes) && !in_array('blur',$classes) ? ' tooltipster" title="'.sprintf( _n('%d Available','%d Available',$appointments_left,'booked'),$appointments_left) : (!$hide_available_count && !$appointments_left && $booked_pa_active && !in_array('prev-date',$classes) && !in_array('blur',$classes) ? ' tooltipster" title="'.esc_html__('None Available','booked').'"' : '')).'"><span class="number">'. $date .'</span></span>';
+                    $html .= '<span class="date">'. $date .'</span>';
                     $html .= '</td>';
 
                     $combined_date = $year.'-'.$check_month.'-'.$date;
@@ -645,7 +645,6 @@ class Calendar_Public_Display {
                         }
 
                         $html .= '<span class="timeslot-range"><i class="booked-icon booked-icon-clock"></i>&nbsp;&nbsp;' . $timeslotText . '</span>';
-                        if (!$hide_available_count): $html .= '<span class="spots-available'.($spots_available == 0 ? ' empty' : '').'">'.sprintf(_n('%d space available','%d spaces available',$spots_available,'booked'),$spots_available).'</span>'; endif;
                         if ($public_appointments && !empty($appts_in_this_timeslot)):
                             $html .= '<span class="booked-public-appointment-title">'._n('Appointments in this time slot:','Appointments in this time slot:',count($appts_in_this_timeslot),'booked').'</span>';
                             $html .= '<ul class="booked-public-appointment-list">';
@@ -874,7 +873,6 @@ class Calendar_Public_Display {
 
                         if (!$hide_available_count):
                             $html .= '<span class="spots-available'.($spots_available == 0 ? ' empty' : '').'">';
-                            $html .= sprintf( _n( '%d space available', '%d spaces available', $spots_available, 'booked' ), $spots_available );
                             $html .= '</span>';
                         endif;
 
@@ -903,7 +901,7 @@ class Calendar_Public_Display {
                         $html .= apply_filters('booked_fe_calendar_timeslot_after','',$this_timeslot_timestamp,$timeslot,$calendar_id);
 
                         $html .= '</span>';
-                        $html .= '<span class="timeslot-people"><button data-calendar-id="'.$calendar_id.'" data-title="'.esc_attr($title).'" data-timeslot="'.$timeslot.'" data-date="'.$date.'" class="new-appt button"'.(!$spots_available || !$available ? ' disabled' : '').'>'.( $title ? '<span class="timeslot-mobile-title">'.esc_html($title).'</span>' : '' ).'<span class="button-timeslot">'.apply_filters('booked_fe_mobile_timeslot_button',$timeslotText,$this_timeslot_timestamp,$timeslot,$calendar_id).'</span>'.apply_filters('booked_button_book_appointment', '<span class="button-text">' . $button_text . '</span>' . ( !$hide_available_count ? '<span class="spots-available' . ( $spots_available == 0 ? ' empty' : '' ) . '">' . sprintf( esc_html( _n( '%d space available', '%d spaces available', $spots_available, 'booked' ) ), $spots_available ) . '</span>' : '' ) ).'</button></span>';
+                        $html .= '<span class="timeslot-people"><button data-calendar-id="'.$calendar_id.'" data-title="'.esc_attr($title).'" data-timeslot="'.$timeslot.'" data-date="'.$date.'" class="new-appt button"'.(!$spots_available || !$available ? ' disabled' : '').'>'.( $title ? '<span class="timeslot-mobile-title">'.esc_html($title).'</span>' : '' ).'<span class="button-timeslot">'.apply_filters('booked_fe_mobile_timeslot_button',$timeslotText,$this_timeslot_timestamp,$timeslot,$calendar_id).'</span>'.apply_filters('booked_button_book_appointment', '<span class="button-text">' . $button_text . '</span>' ).'</button></span>';
                         $html .= '</div>';
                     endif;
 

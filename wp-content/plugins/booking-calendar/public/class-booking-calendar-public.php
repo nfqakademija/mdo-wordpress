@@ -133,7 +133,7 @@ class Booking_Calendar_Public {
             'profilePage' => false, //'http://google.lt', //$profile_page,
             'publicAppointments' => get_option('booked_public_appointments',false),
             'i18n_confirm_appt_delete' => esc_html__('Are you sure you want to cancel this appointment?','booked'),
-            'i18n_please_wait' => esc_html__('Please wait ...','booked'),
+            'i18n_please_wait' => esc_html__('Prašome palaukti, apdorojama...','booked'),
             'i18n_wrong_username_pass' => esc_html__('Wrong username/password combination.','booked'),
             'i18n_fill_out_required_fields' => esc_html__('Please fill out all required fields.','booked'),
             'i18n_guest_appt_required_fields' => esc_html__('Please enter your name to book an appointment.','booked'),
